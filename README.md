@@ -1,4 +1,5 @@
 # 2nd-ML100Days
+[/ 第 2 屆 / 機器學習 百日馬拉松](https://ai100-2.cupoy.com/)
 ## Materials
 ### 1-資料清理數據前處理
 * Day 1 - 資料介紹與評估資料
@@ -18,3 +19,8 @@
         * [npy file](https://towardsdatascience.com/why-you-should-start-using-npy-file-more-often-df2a13cc0161)
         * [Pickle](https://docs.python.org/3/library/pickle.html) 
         * [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) 
+* Day 4 - EDA: 欄位的資料類型介紹及處理
+    * Hints:
+    * Refs:
+        * [label-encoder-vs-one-hot-encoder](https://medium.com/@contactsunny/label-encoder-vs-one-hot-encoder-in-machine-learning-3fc273365621)
+        * [Pandas 數據類型](https://blog.csdn.net/claroja/article/details/72622375)
