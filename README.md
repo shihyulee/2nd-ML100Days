@@ -26,9 +26,16 @@
         * [Pandas 數據類型](https://blog.csdn.net/claroja/article/details/72622375)
 * Day 5 - EDA資料分佈
     * Hints:
-        * [Descriptive Statistics For pandas Dataframe]https://chrisalbon.com/python/data_wrangling/pandas_dataframe_descriptive_stats/)
+        * [Descriptive Statistics For pandas Dataframe](https://chrisalbon.com/python/data_wrangling/pandas_dataframe_descriptive_stats/)
         * [pandas 中的繪圖函數](https://amaozhao.gitbooks.io/pandas-notebook/content/pandas%E4%B8%AD%E7%9A%84%E7%BB%98%E5%9B%BE%E5%87%BD%E6%95%B0.html)
     * Refs:
         * [敘述統計與機率分佈 by 吳漢銘老師](http://www.hmwu.idv.tw/web/R_AI_M/AI-M1-hmwu_R_Stat&Prob.pdf)
         * [Standard Statistical Distributions](https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1b-statistical-methods/statistical-distributions)
         * [List of probability distributions ](https://en.wikipedia.org/wiki/List_of_probability_distributions)
+* Day 6 - EDA: Outlier 及處理
+    * hints:
+        * [ECDF](https://zh.wikipedia.org/wiki/%E7%BB%8F%E9%AA%8C%E5%88%86%E5%B8%83%E5%87%BD%E6%95%B0)
+        * [ECDF with Python](https://stackoverflow.com/questions/14006520/ecdf-in-python-without-step-function)
+    * Refs:
+        * [Ways to Detect and Remove the Outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)
+        * [How to Use Statistics to Identify Outliers in Data](https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/)
