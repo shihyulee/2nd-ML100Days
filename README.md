@@ -43,3 +43,8 @@
     * hints:
     * Refs:
         * [Is it a good practice to always scale/normalize data for machine learning?](https://stats.stackexchange.com/questions/189652/is-it-a-good-practice-to-always-scale-normalize-data-for-machine-learning)
+* Day 8 - DataFrame operationData frame merge/常用的 DataFrame 操作
+    * hints:
+    * Refs:
+        * [Cheat sheet Pandas Python (DataCamp)](https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf) 
+        * [Standard score](https://en.wikipedia.org/wiki/Standard_score)
