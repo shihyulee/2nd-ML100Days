@@ -54,3 +54,4 @@
     * Refs:
         * [Pearson’s correlation](http://www.statstutor.ac.uk/resources/uploaded/pearsons.pdf)
         * [Guess The Correlation](http://guessthecorrelation.com/)
+* Day 10 - EDA from Correlation (相關係數實作)
