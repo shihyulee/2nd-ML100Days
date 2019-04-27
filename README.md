@@ -55,3 +55,13 @@
         * [Pearson’s correlation](http://www.statstutor.ac.uk/resources/uploaded/pearsons.pdf)
         * [Guess The Correlation](http://guessthecorrelation.com/)
 * Day 10 - EDA from Correlation (相關係數實作)
+* Day 11 - EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)
+    * hints:
+        * [KDE](https://scikit-learn.org/stable/auto_examples/neighbors/plot_kde_1d.html#sphx-glr-auto-examples-neighbors-plot-kde-1d-py)
+        * [什麼是 KDE](https://blog.csdn.net/unixtch/article/details/78556499)
+    * Refs:
+        * [Python Graph Gallery](https://python-graph-gallery.com/)
+        * [R Graph Gallery](https://www.r-graph-gallery.com/)
+        * [R Graph Gallery (Interactive plot, 互動圖)](https://bl.ocks.org/mbostock)
+        * [D3.js](https://d3js.org/)
+        * [核密度估計基礎](https://blog.csdn.net/david830_wu/article/details/66974189)
