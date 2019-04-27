@@ -48,3 +48,9 @@
     * Refs:
         * [Cheat sheet Pandas Python (DataCamp)](https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf) 
         * [Standard score](https://en.wikipedia.org/wiki/Standard_score)
+* Day 9 - 程式實作 EDA: correlation/相關係數簡介
+    * hints:
+        * [隨機變數](https://en.wikipedia.org/wiki/Random_variable)
+    * Refs:
+        * [Pearson’s correlation](http://www.statstutor.ac.uk/resources/uploaded/pearsons.pdf)
+        * [Guess The Correlation](http://guessthecorrelation.com/)
