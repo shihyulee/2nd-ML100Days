@@ -65,3 +65,7 @@
         * [R Graph Gallery (Interactive plot, 互動圖)](https://bl.ocks.org/mbostock)
         * [D3.js](https://d3js.org/)
         * [核密度估計基礎](https://blog.csdn.net/david830_wu/article/details/66974189)
+* Day 12 - EDA: 把連續型變數離散化
+    * hints:
+    * Refs:
+        * [連續特徵的離散化 : 在什麼情況下可以獲得更好的效果(知乎)](https://www.zhihu.com/question/31989952)
