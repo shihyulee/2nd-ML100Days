@@ -5,6 +5,7 @@
 * Day 1 - 資料介紹與評估資料
     * Hints
         * [如何取平方](https://googoodesign.gitbooks.io/-ezpython/unit-1.html)
+        * [也談談機器學習中的 Evaluation Metrics](https://blog.csdn.net/aws3217150/article/details/50479457)
 
 * Day 2 - EDA-1/讀取資料EDA: Data summary
     * Hints
