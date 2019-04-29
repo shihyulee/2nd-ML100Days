@@ -71,3 +71,9 @@
     * Refs:
         * [連續特徵的離散化 : 在什麼情況下可以獲得更好的效果(知乎)](https://www.zhihu.com/question/31989952)
 * Day 13 - 程式實作 把連續型變數離散化
+* Day 14 - Subplots
+    * hints:
+    * Refs:
+        * [matplotlib 官方範例](https://matplotlib.org/examples/pylab_examples/subplots_demo.html)
+        * [Multiple Subplots](https://jakevdp.github.io/PythonDataScienceHandbook/04.08-multiple-subplots.html)
+        * [Seaborn.jointplot](https://seaborn.pydata.org/generated/seaborn.jointplot.html)
