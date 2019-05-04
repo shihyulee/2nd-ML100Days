@@ -77,3 +77,10 @@
         * [matplotlib 官方範例](https://matplotlib.org/examples/pylab_examples/subplots_demo.html)
         * [Multiple Subplots](https://jakevdp.github.io/PythonDataScienceHandbook/04.08-multiple-subplots.html)
         * [Seaborn.jointplot](https://seaborn.pydata.org/generated/seaborn.jointplot.html)
+* Day 15 - Heatmap & Grid
+    * hints:
+        * [numpy.random.randn()用法](https://blog.csdn.net/u012149181/article/details/78913167)
+    * Refs:
+        * [Heatmap matplotlib 官方範例](https://matplotlib.org/gallery/images_contours_and_fields/image_annotated_heatmap.html)
+        * [Heatmap Seaborn 範例](https://www.jianshu.com/p/363bbf6ec335)
+        * [Visualizing Data with Pairs Plots in Python](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
