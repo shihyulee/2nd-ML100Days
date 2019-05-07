@@ -85,3 +85,12 @@
         * [Heatmap Seaborn 範例](https://www.jianshu.com/p/363bbf6ec335)
         * [Visualizing Data with Pairs Plots in Python](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
 * Day 16 - 模型初體驗 Logistic Regression
+
+### 2-資料科學特徵工程技術
+
+* D17 - 特徵工程簡介
+    * hints:
+        * [log1p(x) 和 expm1(x)](https://blog.csdn.net/liyuanbhu/article/details/8544644)
+    * Refs:
+        * [知乎-特徵工程到底是什麼](https://www.zhihu.com/question/29316149)
+        * [痞客幫-iT邦2019鐵人賽 : 為什麼特徵工程很重要](https://ithelp.ithome.com.tw/articles/10200041?sc=iThelpR)
