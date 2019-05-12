@@ -102,3 +102,8 @@
         * [ k- fold cross validation](https://zhuanlan.zhihu.com/p/24825503)
         * [Python Tutorial 第二堂 - 數值與字串型態](https://openhome.cc/Gossip/CodeData/PythonTutorial/NumericStringPy3.html)
         * [Built-in Types Python 官方說明](https://docs.python.org/3/library/stdtypes.html)
+* D19 - 數值型特徵-補缺失值與標準化
+    * hints:
+    * Ref:
+        * [掘金 : Python數據分析基礎 : 數據缺失值處理](https://juejin.im/post/5b5c4e6c6fb9a04f90791e0c)
+        * [數據標準化 / 歸一化normalization](https://blog.csdn.net/pipisorry/article/details/52247379)
