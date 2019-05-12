@@ -94,3 +94,11 @@
     * Refs:
         * [知乎-特徵工程到底是什麼](https://www.zhihu.com/question/29316149)
         * [痞客幫-iT邦2019鐵人賽 : 為什麼特徵工程很重要](https://ithelp.ithome.com.tw/articles/10200041?sc=iThelpR)
+
+* D18 - 特徵類型
+    * hints:
+        * [Python 字串格式化以及 f-string 字串格式化](https://blog.louie.lu/2017/08/08/outdate-python-string-format-and-fstring/)
+    * Refs:
+        * [ k- fold cross validation](https://zhuanlan.zhihu.com/p/24825503)
+        * [Python Tutorial 第二堂 - 數值與字串型態](https://openhome.cc/Gossip/CodeData/PythonTutorial/NumericStringPy3.html)
+        * [Built-in Types Python 官方說明](https://docs.python.org/3/library/stdtypes.html)
