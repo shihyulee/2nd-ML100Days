@@ -116,4 +116,7 @@
     * hints:
     * Ref:
         * [機器學習數學|偏度與峰度及其python 實現](https://blog.csdn.net/u013555719/article/details/78530879)
-    
+* D22 - 類別型特徵 - 基礎處理
+    * hints:
+    * Ref:
+        * [數據預處理：獨熱編碼（One-Hot Encoding）和 LabelEncoder標籤編碼](https://www.twblogs.net/a/5baab6e32b7177781a0e6859/zh-cn/)
