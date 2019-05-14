@@ -120,3 +120,7 @@
     * hints:
     * Ref:
         * [數據預處理：獨熱編碼（One-Hot Encoding）和 LabelEncoder標籤編碼](https://www.twblogs.net/a/5baab6e32b7177781a0e6859/zh-cn/)
+* D23 - 類別型特徵 - 均值編碼
+    * hints:
+    * Ref:
+        * [平均數編碼 ：針對高基數定性特徵(類別特徵)的數據處理/ 特徵工程](https://zhuanlan.zhihu.com/p/26308272)
