@@ -124,3 +124,8 @@
     * hints:
     * Ref:
         * [平均數編碼 ：針對高基數定性特徵(類別特徵)的數據處理/ 特徵工程](https://zhuanlan.zhihu.com/p/26308272)
+* D24 - 類別型特徵 - 其他進階處理
+    * hints:
+    * Ref:
+        * [Feature hashing (特徵哈希)](https://blog.csdn.net/laolu1573/article/details/79410187)
+        * [基於sklearn的文本特徵抽取](https://www.jianshu.com/p/063840752151)
