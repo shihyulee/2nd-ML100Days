@@ -133,3 +133,8 @@
     * hints:
     Ref: [PYTHON-基礎-時間日期處理小結](http://www.wklken.me/posts/2015/03/03/python-base-datetime.html)
 
+* D26 - 特徵組合 - 數值與數值組合
+    * hints:
+    * Ref:
+        * [特徵組合&特徵交叉 (Feature Crosses)](https://segmentfault.com/a/1190000014799038)
+        * [簡單高效的組合特徵自動挖掘框架](https://zhuanlan.zhihu.com/p/42946318)
