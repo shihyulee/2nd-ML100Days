@@ -138,3 +138,12 @@
     * Ref:
         * [特徵組合&特徵交叉 (Feature Crosses)](https://segmentfault.com/a/1190000014799038)
         * [簡單高效的組合特徵自動挖掘框架](https://zhuanlan.zhihu.com/p/42946318)
+* D27 - 特徵組合 - 類別與數值組合
+    * hints:
+    * Ref:
+        * [利用 Python 數據分析之數據聚合與分組](https://zhuanlan.zhihu.com/p/27590154)
+* D28 - 特徵選擇
+    * hints;
+    * Ref:
+        * [特徵選擇](https://zhuanlan.zhihu.com/p/32749489)
+        * [特徵選擇線上手冊](https://machine-learning-python.kspax.io/intro-1)
