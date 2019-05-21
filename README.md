@@ -147,3 +147,14 @@
     * Ref:
         * [特徵選擇](https://zhuanlan.zhihu.com/p/32749489)
         * [特徵選擇線上手冊](https://machine-learning-python.kspax.io/intro-1)
+* D29 - 特徵評估
+    * hints:
+    * Ref:
+        * [機器學習 - 特徵選擇算法流程、分類、優化與發展綜述](https://juejin.im/post/5a1f7903f265da431c70144c)
+        * [Permutation Importance](https://www.kaggle.com/dansbecker/permutation-importance?utm_medium=email&utm_source=mailchimp&utm_campaign=ml4insights)
+* D30 - 分類型特徵優化 - 葉編碼
+    * hints:
+    * Ref:
+        * [Feature transformations with ensembles of trees](https://scikit-learn.org/stable/auto_examples/ensemble/plot_feature_transformation.html#example-ensemble-plot-feature-transformation-py)
+        * [Algorithm-GBDT Encoder](https://zhuanlan.zhihu.com/p/31734283)
+        * [Factorization Machine](https://kknews.cc/zh-tw/other/62k4rml.html)
