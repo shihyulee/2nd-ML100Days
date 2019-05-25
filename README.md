@@ -1,7 +1,7 @@
 # 2nd-ML100Days
 [/ 第 2 屆 / 機器學習 百日馬拉松](https://ai100-2.cupoy.com/)
 ## Materials
-### 1-資料清理數據前處理
+### 1 - 資料清理數據前處理
 * Day 1 - 資料介紹與評估資料
     * Hints
         * [如何取平方](https://googoodesign.gitbooks.io/-ezpython/unit-1.html)
@@ -86,7 +86,7 @@
         * [Visualizing Data with Pairs Plots in Python](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
 * Day 16 - 模型初體驗 Logistic Regression
 
-### 2-資料科學特徵工程技術
+### 2 - 資料科學特徵工程技術
 
 * D17 - 特徵工程簡介
     * hints:
@@ -158,3 +158,19 @@
         * [Feature transformations with ensembles of trees](https://scikit-learn.org/stable/auto_examples/ensemble/plot_feature_transformation.html#example-ensemble-plot-feature-transformation-py)
         * [Algorithm-GBDT Encoder](https://zhuanlan.zhihu.com/p/31734283)
         * [Factorization Machine](https://kknews.cc/zh-tw/other/62k4rml.html)
+
+### 3 - 機器學習基礎模型建立
+* D31 - 機器學習概論
+    * hints:
+    * Ref:
+        * [機器是如何學習到東西的?](https://kopu.chat/2017/07/28/%E6%A9%9F%E5%99%A8%E6%98%AF%E6%80%8E%E9%BA%BC%E5%BE%9E%E8%B3%87%E6%96%99%E4%B8%AD%E3%80%8C%E5%AD%B8%E3%80%8D%E5%88%B0%E6%9D%B1%E8%A5%BF%E7%9A%84%E5%91%A2/)
+        * [如何教懂電腦看圖像](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?language=zh-tw)
+* D32 - 機器學習-流程與步驟
+    * 機器學習 blog:
+        * [Google AI blog](https://ai.googleblog.com/)
+        * [Facebook Research blog](https://research.fb.com/blog/)
+        * [Apple machine learning journal](https://machinelearning.apple.com/)
+        * [機器之心](https://www.jiqizhixin.com/)
+        * [雷鋒網](https://www.leiphone.com/category/ai)
+    * Ref:
+        * [The 7 Steps of Machine Learning (AI Adventures)](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)
