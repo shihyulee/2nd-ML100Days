@@ -174,3 +174,8 @@
         * [雷鋒網](https://www.leiphone.com/category/ai)
     * Ref:
         * [The 7 Steps of Machine Learning (AI Adventures)](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)
+* D33 - 機器如何學習?
+    * hints:
+        * [ML Lecture 1: Regression - Case Study](https://www.youtube.com/watch?v=fegAeph9UaA)
+    * Ref: 
+        * [學習曲線與 bias/variance trade-off](http://bangqu.com/yjB839.html)
