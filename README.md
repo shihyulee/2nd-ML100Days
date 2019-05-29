@@ -179,3 +179,8 @@
         * [ML Lecture 1: Regression - Case Study](https://www.youtube.com/watch?v=fegAeph9UaA)
     * Ref: 
         * [學習曲線與 bias/variance trade-off](http://bangqu.com/yjB839.html)
+* D34 - 訓練/測試集切分的概念
+    * hints:
+        * [sklearn.model_selection.train_test_split](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
+    * Ref:
+        * [台大電機李宏毅教授講解訊練/驗證/測試集的意義](https://www.youtube.com/watch?v=D_S6y0Jm6dQ&feature=youtu.be&t=1948)
