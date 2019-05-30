@@ -184,3 +184,13 @@
         * [sklearn.model_selection.train_test_split](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
     * Ref:
         * [台大電機李宏毅教授講解訊練/驗證/測試集的意義](https://www.youtube.com/watch?v=D_S6y0Jm6dQ&feature=youtu.be&t=1948)
+* D35 - regression vs. classification
+    * hints:
+    * Ref:
+        * [回歸與分類的比較](http://zylix666.blogspot.com/2016/06/supervised-classificationregression.html)
+* D36 - 評估指標選定/evaluation metrics
+    * hints:
+        * [F1 Score Code](https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/metrics/classification.py#L620)
+    * Ref:
+        * [ROC curves and Area Under the Curve explained](https://www.dataschool.io/roc-curves-and-auc-explained/)
+        * [機器學習模型評估](https://zhuanlan.zhihu.com/p/30721429)
