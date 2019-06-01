@@ -215,6 +215,24 @@
         * [脊回歸 (Ridge Regression)](https://blog.csdn.net/daunxx/article/details/51578787)
         * [Linear, Ridge, Lasso Regression 本質區別](https://www.zhihu.com/question/38121173)
     * Ref:
-* D4 - regression model 程式碼撰寫
+* D40 - regression model 程式碼撰寫
     * hints:
     * Ref:
+* D41 - tree based model - 決策樹 (Decision Tree) 模型介紹
+    * hints: 
+        * [Gini Impurity vs Entropy](https://datascience.stackexchange.com/questions/10228/gini-impurity-vs-entropy)
+        * [決策樹(Decision Tree)以及隨機森林(Random Forest)介紹](https://medium.com/jameslearningnote/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC3-5%E8%AC%9B-%E6%B1%BA%E7%AD%96%E6%A8%B9-decision-tree-%E4%BB%A5%E5%8F%8A%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97-random-forest-%E4%BB%8B%E7%B4%B9-7079b0ddfbda)
+        * [HOW DECISION TREE ALGORITHM WORKS](http://dataaspirant.com/2017/01/30/how-decision-tree-algorithm-works/)
+    * Ref:
+* D42 - tree based model - 決策樹程式碼撰寫
+    * hints:
+    * Ref:
+        * [Creating and Visualizing Decision Trees with Python](https://medium.com/@rnbrown/creating-and-visualizing-decision-trees-with-python-f8e8fa394176)
+* D43 - tree based model - 隨機森林 (Random Forest) 介紹
+    * hints:
+        * [隨機森林 (random forest)](http://hhtucode.blogspot.com/2013/06/ml-random-forest.html)
+        * [How Random Forest Algorithm Works in Machine Learning](https://medium.com/@Synced/how-random-forest-algorithm-works-in-machine-learning-3c0fe15b6674)
+* D44 - tree based model - 隨機森林程式碼撰寫
+    * hints:
+    * Ref:
+        * [Random Forests - The Math of Intelligence(YouTube)](https://www.youtube.com/watch?v=QHOazyP-YlM)
