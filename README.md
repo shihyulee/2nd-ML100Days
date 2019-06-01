@@ -194,3 +194,27 @@
     * Ref:
         * [ROC curves and Area Under the Curve explained](https://www.dataschool.io/roc-curves-and-auc-explained/)
         * [機器學習模型評估](https://zhuanlan.zhihu.com/p/30721429)
+* D37 - regression model 介紹 - 線性迴歸/羅吉斯回歸
+    * hints:
+        * [線性迴歸的運作原理](https://brohrer.mcknote.com/zh-Hant/how_machine_learning_works/how_linear_regression_works.html)
+        * [線性分類-邏輯斯回歸](https://medium.com/@yehjames/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC3-3%E8%AC%9B-%E7%B7%9A%E6%80%A7%E5%88%86%E9%A1%9E-%E9%82%8F%E8%BC%AF%E6%96%AF%E5%9B%9E%E6%AD%B8-logistic-regression-%E4%BB%8B%E7%B4%B9-a1a5f47017e5)
+        * [你可能不知道的邏輯迴歸](https://taweihuang.hpd.io/2017/12/22/logreg101/)
+    * Ref:
+        * [Andrew Ng 教你 Linear regression](https://zh-tw.coursera.org/lecture/machine-learning/model-representation-db3jS)
+        * [邏輯回歸常見面試題總結](https://blog.csdn.net/qq_23269761/article/details/81778585)
+* D38 - regression model 程式碼撰寫
+    * hints:
+        * [sklearn 邏輯回歸中的參數的詳解](https://blog.csdn.net/lc574260570/article/details/82116197)
+        * [What is the difference between one-vs-all binary logistic regression and multinomial logistic regression?](https://www.quora.com/What-is-the-difference-between-one-vs-all-binary-logistic-regression-and-multinomial-logistic-regression)
+        * [What is the difference between logistic and logit regression?](https://stats.stackexchange.com/questions/120329/what-is-the-difference-between-logistic-and-logit-regression/120364#120364)
+    * Ref:
+        * [Linear Regression / Logistic Regression 的 examples](https://github.com/trekhleb/homemade-machine-learning)
+        * [深入了解 multinomial Logistic Regression 的原理](http://dataaspirant.com/2017/05/15/implement-multinomial-logistic-regression-python/)
+* D39 - regression model 介紹 - LASSO 回歸/ Ridge 回歸
+    * hints:
+        * [脊回歸 (Ridge Regression)](https://blog.csdn.net/daunxx/article/details/51578787)
+        * [Linear, Ridge, Lasso Regression 本質區別](https://www.zhihu.com/question/38121173)
+    * Ref:
+* D4 - regression model 程式碼撰寫
+    * hints:
+    * Ref:
