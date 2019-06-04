@@ -236,3 +236,18 @@
     * hints:
     * Ref:
         * [Random Forests - The Math of Intelligence(YouTube)](https://www.youtube.com/watch?v=QHOazyP-YlM)
+* D45 - tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹
+    * hints:
+        * [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
+        * [ML Lecture 22: Ensemble(Youtube)](https://www.youtube.com/watch?v=tH9FH1DH5n0)
+        * [How to explain gradient boosting](https://explained.ai/gradient-boosting/index.html)
+
+    * Ref:
+        * [GBDT︰梯度提升決策樹](https://ifun01.com/84A3FW7.html)
+        * [Kaggle Winning Solution Xgboost Algorithm - Learn from Its Author, Tong He (Youtube)](https://www.youtube.com/watch?v=ufHo8vbk6g4)
+        * [Introduction to Boosted Trees (Slide)](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf)
+* D46 - tree based model - 梯度提升機程式碼撰寫
+    * hints: 
+        * [Is multicollinearity a problem with gradient boosted trees?](https://www.quora.com/Is-multicollinearity-a-problem-with-gradient-boosted-trees)
+    * Ref:
+        * [Complete Guide to Parameter Tuning in Gradient Boosting (GBM) in Python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
