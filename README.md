@@ -251,3 +251,11 @@
         * [Is multicollinearity a problem with gradient boosted trees?](https://www.quora.com/Is-multicollinearity-a-problem-with-gradient-boosted-trees)
     * Ref:
         * [Complete Guide to Parameter Tuning in Gradient Boosting (GBM) in Python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
+
+### 4 - 機器學習調整參數
+* D47 - 超參數調整與優化
+    * hints:
+        * [Smarter Parameter Sweeps](https://medium.com/rants-on-machine-learning/smarter-parameter-sweeps-or-why-grid-search-is-plain-stupid-c17d97a0e881)
+    * Ref:
+        * [Scanning hyperspace: how to tune machine learning models](https://cambridgecoding.wordpress.com/2016/04/03/scanning-hyperspace-how-to-tune-machine-learning-models/)
+        * [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
