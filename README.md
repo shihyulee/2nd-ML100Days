@@ -259,3 +259,17 @@
     * Ref:
         * [Scanning hyperspace: how to tune machine learning models](https://cambridgecoding.wordpress.com/2016/04/03/scanning-hyperspace-how-to-tune-machine-learning-models/)
         * [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
+* D48 - Kaggle 競賽平台介紹
+    * [Data Science London + Scikit-learn](https://www.kaggle.com/c/data-science-london-scikit-learn)
+* D49 - 集成方法 : 混合泛化(Blending)
+    * hints:
+    * Ref:
+        * [機器學習技法 Lecture 7: Blending and Bagging (Slide)](https://www.csie.ntu.edu.tw/~htlin/mooc/doc/207_handout.pdf)
+        * [機器學習技法 Lecture 7: Blending and Bagging (Video)](https://www.youtube.com/watch?v=mjUKsp0MvMI&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2&index=27&t=0s)
+        * [Kaggle - Superblend](https://www.kaggle.com/tunguz/superblend)
+* D50 - 集成方法 : 堆疊泛化(Stacking)
+    * hints:
+        * [STACKED GENERALIZATION (Paper)](http://www.machine-learning.martinsewell.com/ensembles/stacking/Wolpert1992.pdf)
+        * [StackingCVClassifier](http://rasbt.github.io/mlxtend/user_guide/classifier/StackingCVClassifier/)
+    * Ref:
+        * [如何在 Kaggle 首戰中進入前 10%](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
