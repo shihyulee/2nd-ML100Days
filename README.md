@@ -273,3 +273,9 @@
         * [StackingCVClassifier](http://rasbt.github.io/mlxtend/user_guide/classifier/StackingCVClassifier/)
     * Ref:
         * [如何在 Kaggle 首戰中進入前 10%](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
+* D54 - clustering 1 非監督式機器學習簡介
+    * hints:
+        * [Lecture 1.3 — Introduction Unsupervised Learning — [ Machine Learning | Andrew Ng]](https://youtu.be/jAA2g9ItoAc)
+    * Ref:
+        * [Unsupervised learning：PCA](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/PCA.mp4)
+        * [Scikit-learn unsupervised learning](https://scikit-learn.org/stable/unsupervised_learning.html)
