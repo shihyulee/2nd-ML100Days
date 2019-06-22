@@ -273,9 +273,33 @@
         * [StackingCVClassifier](http://rasbt.github.io/mlxtend/user_guide/classifier/StackingCVClassifier/)
     * Ref:
         * [如何在 Kaggle 首戰中進入前 10%](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
+
+### 4 - 非監督式機器學習
 * D54 - clustering 1 非監督式機器學習簡介
     * hints:
         * [Lecture 1.3 — Introduction Unsupervised Learning — [ Machine Learning | Andrew Ng]](https://youtu.be/jAA2g9ItoAc)
     * Ref:
         * [Unsupervised learning：PCA](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/PCA.mp4)
         * [Scikit-learn unsupervised learning](https://scikit-learn.org/stable/unsupervised_learning.html)
+* D55 - clustering 2 聚類算法
+    * hints:
+    * Ref:
+        * [Clustering 影片來源：Statistical Learning YT](https://www.youtube.com/watch?v=aIybuNt9ps4)
+        * [Clustering Means Algorithm 影片來源： [ Machine Learning | Andrew Ng ] YT](https://www.youtube.com/watch?v=hDmNF9JG3lo)
+        * [Unsupervised Machine Learning:Flat Clustering](https://pythonprogramming.net/flat-clustering-machine-learning-python-scikit-learn/)
+* D56 - K-mean 觀察 : 使用輪廓分析
+    * hints: [D56：K-mean 觀察 : 使用輪廓分析](https://blog.csdn.net/wangxiaopeng0329/article/details/53542606)
+    * Ref:
+* D57 - clustering 3 階層分群算法
+    * hints:
+    * Ref:
+        * [Hierarchical Clustering 影片來源：Statistical Learning YT](https://www.youtube.com/watch?v=Tuuc9Y06tAc)
+        * [Example：Breast cancer Microarray study 影片來源：Statistical Learning YT](https://www.youtube.com/watch?v=yUJcTpWNY_o)
+* D58 - 階層分群法 觀察 : 使用 2D 樣版資料集
+* D59 - dimension reduction 1 降維方法-主成份分析
+    * hints:
+    * Ref:
+        * [Unsupervised learning 影片來源：Statistical Learning](https://www.youtube.com/watch?v=ipyxSYXgzjQ)
+        * [Further Principal Components 影片來源：Statistical Learning](https://www.youtube.com/watch?v=dbuSGWCgdzw)
+        * [Principal Components Regression 影片來源：Statistical Learning](https://www.youtube.com/watch?v=eYxwWGJcOfw)
+        * [Dimentional Reduction 影片來源 Andrew Ng](https://www.youtube.com/watch?v=rng04VJxUt4)
