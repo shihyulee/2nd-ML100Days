@@ -303,3 +303,9 @@
         * [Further Principal Components 影片來源：Statistical Learning](https://www.youtube.com/watch?v=dbuSGWCgdzw)
         * [Principal Components Regression 影片來源：Statistical Learning](https://www.youtube.com/watch?v=eYxwWGJcOfw)
         * [Dimentional Reduction 影片來源 Andrew Ng](https://www.youtube.com/watch?v=rng04VJxUt4)
+* D60 - PCA 觀察 : 使用手寫辨識資料集
+* D61 - dimension reduction 2 降維方法-T-SNE
+    * hints:
+    * Ref: 
+        * [Visualizing Data using t-SNE 影片來源：GoogleTechTalks YT](https://www.youtube.com/watch?v=RJVL80Gg3lA)
+        * [Unsupervised Learning 影片來源：李弘毅 YT](https://www.youtube.com/watch?v=GBUEjkpoxXc)
