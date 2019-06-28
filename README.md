@@ -274,7 +274,7 @@
     * Ref:
         * [如何在 Kaggle 首戰中進入前 10%](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
 
-### 4 - 非監督式機器學習
+### 5 - 非監督式機器學習
 * D54 - clustering 1 非監督式機器學習簡介
     * hints:
         * [Lecture 1.3 — Introduction Unsupervised Learning — [ Machine Learning | Andrew Ng]](https://youtu.be/jAA2g9ItoAc)
@@ -309,3 +309,12 @@
     * Ref: 
         * [Visualizing Data using t-SNE 影片來源：GoogleTechTalks YT](https://www.youtube.com/watch?v=RJVL80Gg3lA)
         * [Unsupervised Learning 影片來源：李弘毅 YT](https://www.youtube.com/watch?v=GBUEjkpoxXc)
+* D62 - t-sne 觀察 : 分群與流形還原
+
+### 6 - 深度學習理論與實作
+* D63 - 神經網路介紹
+    * hints:
+    * Ref:
+        * [人工智慧大歷史](https://medium.com/@suipichen/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E5%A4%A7%E6%AD%B7%E5%8F%B2-ffe46a350543)
+        * [3 分鐘搞懂深度學習到底在深什麼](https://panx.asia/archives/53209)
+        * [Deep Learning Theory 1-1: Can shallow network fit any function?](https://www.youtube.com/watch?v=KKT2VkTdFyc)
