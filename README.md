@@ -318,3 +318,13 @@
         * [人工智慧大歷史](https://medium.com/@suipichen/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E5%A4%A7%E6%AD%B7%E5%8F%B2-ffe46a350543)
         * [3 分鐘搞懂深度學習到底在深什麼](https://panx.asia/archives/53209)
         * [Deep Learning Theory 1-1: Can shallow network fit any function?](https://www.youtube.com/watch?v=KKT2VkTdFyc)
+* D64 - 深度學習體驗 : 模型調整與學習曲線
+    * hints:
+        * [TensorFlowPlayGround](https://playground.tensorflow.org/)
+    * Ref:
+        * [中文版 TF PlayGround 科技部AI普適研究中心](https://pairlabs.ai/tensorflow-playground/index_tw.html#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.81970&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+* D65 - 深度學習體驗 : 啟動函數與正規化
+    * hints:
+    * Ref:
+        * [Understanding neural networks with TensorFlow Playground](https://cloud.google.com/blog/products/gcp/understanding-neural-networks-with-tensorflow-playground)
+        * [深度深度學習網路調參技巧 with TensorFlow Playground](https://zhuanlan.zhihu.com/p/24720954)
