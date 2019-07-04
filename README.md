@@ -328,3 +328,10 @@
     * Ref:
         * [Understanding neural networks with TensorFlow Playground](https://cloud.google.com/blog/products/gcp/understanding-neural-networks-with-tensorflow-playground)
         * [深度深度學習網路調參技巧 with TensorFlow Playground](https://zhuanlan.zhihu.com/p/24720954)
+
+### 7. 初探深度學習使用Keras
+* D66 - Keras 安裝與介紹
+    * hints:
+    * Ref:
+        * [Keras Documentation](https://github.com/keras-team/keras/tree/master/docs)
+        * [Keras: 中文文檔](https://keras.io/zh/#keras_1)
