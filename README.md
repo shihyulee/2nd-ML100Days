@@ -335,3 +335,16 @@
     * Ref:
         * [Keras Documentation](https://github.com/keras-team/keras/tree/master/docs)
         * [Keras: 中文文檔](https://keras.io/zh/#keras_1)
+* D67 - Keras Dataset
+    * hints:
+    * Ref:
+        * [Keras: The Python Deep Learning library](https://github.com/keras-team/keras/)
+        * [Keras dataset](https://keras.io/datasets/)
+        * [Predicting Boston House Prices](https://www.kaggle.com/sagarnildass/predicting-boston-house-prices)
+        * [Imagenet](http://www.image-net.org/about-stats)
+        * [COCO](http://mscoco.org/)
+* D68 - Keras Sequential API
+    * hints:
+    * Ref:
+        [Getting started with the Keras Sequential model](https://keras.io/getting-started/sequential-model-guide/)
+* D69 - Keras Module API
