@@ -348,3 +348,19 @@
     * Ref:
         [Getting started with the Keras Sequential model](https://keras.io/getting-started/sequential-model-guide/)
 * D69 - Keras Module API
+* D70 - Multi-layer Perception多層感知
+    * hints:
+    * Ref:
+        * [機器學習- 神經網路(多層感知機 Multilayer perceptron, MLP)運作方式](https://medium.com/@chih.sheng.huang821/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF-%E5%A4%9A%E5%B1%A4%E6%84%9F%E7%9F%A5%E6%A9%9F-multilayer-perceptron-mlp-%E9%81%8B%E4%BD%9C%E6%96%B9%E5%BC%8F-f0e108e8b9af)
+* D71 - 損失函數
+    * hints:
+    * Ref:
+        * [TensorFlow筆記-06-神經網絡優化-​​損失函數，自定義損失函數，交叉熵](https://blog.csdn.net/qq_40147863/article/details/82015360)
+        * [Usage of loss functions](https://keras.io/losses/)
+* D72 - 啟動函數
+    * hints:
+    * Ref:
+        * [神經網路常用啟動函數總結](https://zhuanlan.zhihu.com/p/39673127)
+        * [激活函數的圖示及其一階導數](https://dashee87.github.io/deep%20learning/visualising-activation-functions-in-neural-networks/)
+        * [CS231N Lecture](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture6.pdf)
+
