@@ -329,7 +329,7 @@
         * [Understanding neural networks with TensorFlow Playground](https://cloud.google.com/blog/products/gcp/understanding-neural-networks-with-tensorflow-playground)
         * [深度深度學習網路調參技巧 with TensorFlow Playground](https://zhuanlan.zhihu.com/p/24720954)
 
-### 7. 初探深度學習使用Keras
+### 7 - 初探深度學習使用Keras
 * D66 - Keras 安裝與介紹
     * hints:
     * Ref:
@@ -363,4 +363,14 @@
         * [神經網路常用啟動函數總結](https://zhuanlan.zhihu.com/p/39673127)
         * [激活函數的圖示及其一階導數](https://dashee87.github.io/deep%20learning/visualising-activation-functions-in-neural-networks/)
         * [CS231N Lecture](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture6.pdf)
+* D73 - 梯度下降Gradient Descent
+    * hints:
+    * Ref:
+        * [Tensorflow中learning rate decay的技巧](https://zhuanlan.zhihu.com/p/32923584)
+        * [機器/深度學習-基礎數學(二):梯度下降法(gradient descent)](https://medium.com/@chih.sheng.huang821/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E5%9F%BA%E7%A4%8E%E6%95%B8%E5%AD%B8-%E4%BA%8C-%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95-gradient-descent-406e1fd001f)
+* D74 - Gradient Descent 數學原理
+    * hints:
+    * Ref:
+        * [gradient descent using python and numpy](https://stackoverflow.com/questions/17784587/gradient-descent-using-python-and-numpy)
+        * [梯度下降算法的參數更新公式](https://blog.csdn.net/hrkxhll/article/details/80395033)
 
