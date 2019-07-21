@@ -373,4 +373,10 @@
     * Ref:
         * [gradient descent using python and numpy](https://stackoverflow.com/questions/17784587/gradient-descent-using-python-and-numpy)
         * [梯度下降算法的參數更新公式](https://blog.csdn.net/hrkxhll/article/details/80395033)
-
+* D75 - BackPropagation
+    * hints:
+    * Ref:
+        * [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
+        * [深度學習(Deep Learning)-反向傳播](https://ithelp.ithome.com.tw/articles/10198813)
+        * [BP神經網路的原理及Python實現](https://blog.csdn.net/conggova/article/details/77799464)
+        * [SimpleBPNetwork](https://github.com/conggova/SimpleBPNetwork)
