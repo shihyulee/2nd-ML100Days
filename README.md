@@ -380,3 +380,11 @@
         * [深度學習(Deep Learning)-反向傳播](https://ithelp.ithome.com.tw/articles/10198813)
         * [BP神經網路的原理及Python實現](https://blog.csdn.net/conggova/article/details/77799464)
         * [SimpleBPNetwork](https://github.com/conggova/SimpleBPNetwork)
+* D76 - 優化器optimizers
+    * hints:
+    * Ref:
+        * [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf)
+        * [Usage of optimizers](https://keras.io/optimizers/)
+        * [Adam優化器如何選擇](https://blog.csdn.net/qq_35860352/article/details/80772142)
+        * [二階優化算法](https://web.stanford.edu/class/msande311/lecture13.pdf)
+        * [自適應的算法](http://www.redcedartech.com/pdfs/Select_Optimization_Method.pdf)
