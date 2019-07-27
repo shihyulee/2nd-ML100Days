@@ -388,3 +388,9 @@
         * [Adam優化器如何選擇](https://blog.csdn.net/qq_35860352/article/details/80772142)
         * [二階優化算法](https://web.stanford.edu/class/msande311/lecture13.pdf)
         * [自適應的算法](http://www.redcedartech.com/pdfs/Select_Optimization_Method.pdf)
+* D77 - 訓練神經網路的細節與技巧 - Validation and overfit
+    * hints:
+    * Ref:
+        * [Overfitting](https://medium.com/@ken90242/machine-learning%E5%AD%B8%E7%BF%92%E6%97%A5%E8%A8%98-coursera%E7%AF%87-week-3-4-the-c05b8ba3b36f)
+        * [Overfitting in Machine Learning: What It Is and How to Prevent It](https://elitedatascience.com/overfitting-in-machine-learning)
+        * [Overfitting vs. Underfitting: A Complete Example](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)
