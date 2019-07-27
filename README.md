@@ -394,3 +394,17 @@
         * [Overfitting](https://medium.com/@ken90242/machine-learning%E5%AD%B8%E7%BF%92%E6%97%A5%E8%A8%98-coursera%E7%AF%87-week-3-4-the-c05b8ba3b36f)
         * [Overfitting in Machine Learning: What It Is and How to Prevent It](https://elitedatascience.com/overfitting-in-machine-learning)
         * [Overfitting vs. Underfitting: A Complete Example](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)
+* D78 - 訓練神經網路前的注意事項
+    * hints:
+    * Ref:
+        * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+        * [Troubleshooting Deep Neural Network – A Field Guide to Fix your Model](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
+* D79 - 訓練神經網路的細節與技巧 - Learning rate effect
+    * hints:
+    * Ref:
+        * [Estimating an Optimal Learning Rate For a Deep Neural Network](https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0)
+        * [cs231n: learning and evaluation](http://cs231n.github.io/neural-networks-3/)
+        * [learning rate,weight decay和momentum](https://zhuanlan.zhihu.com/p/23906526)
+* D80 - [練習 Day] 優化器與學習率的組合與比較
+    * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
+    * [CSDN-優化器方法總結](https://blog.csdn.net/u010089444/article/details/76725843)
