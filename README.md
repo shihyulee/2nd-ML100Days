@@ -408,3 +408,10 @@
 * D80 - [練習 Day] 優化器與學習率的組合與比較
     * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
     * [CSDN-優化器方法總結](https://blog.csdn.net/u010089444/article/details/76725843)
+* D81 - 訓練神經網路的細節與技巧 - Regularization
+    * [Toward Data Science-Regularization in Machine Learning](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a)
+    * [Machine Learning Explained: Regularization](http://enhancedatascience.com/2017/07/04/machine-learning-explained-regularization/)
+    * [機器學習：正規化 by Murphy](https://murphymind.blogspot.com/2017/05/machine.learning.regularization.html)
+* D82 - 訓練神經網路的細節與技巧 - Dropout
+    * [理解 Dropout – CSDN ](https://blog.csdn.net/stdcoutzyx/article/details/49022443)
+    * [Dropout in Deep Learning](https://medium.com/@amarbudhiraja/https-medium-com-amarbudhiraja-learning-less-to-learn-better-dropout-in-deep-machine-learning-74334da4bfc5)
