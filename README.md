@@ -415,3 +415,7 @@
 * D82 - 訓練神經網路的細節與技巧 - Dropout
     * [理解 Dropout – CSDN ](https://blog.csdn.net/stdcoutzyx/article/details/49022443)
     * [Dropout in Deep Learning](https://medium.com/@amarbudhiraja/https-medium-com-amarbudhiraja-learning-less-to-learn-better-dropout-in-deep-machine-learning-74334da4bfc5)
+* D83 - 訓練神經網路的細節與技巧 - Batch normalization
+    * [為何要使用 Batch Normalization – 莫煩 python](https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/3-08-batch-normalization/)
+    * [Batch normalization 原理與實戰 – 知乎](https://zhuanlan.zhihu.com/p/34879333)
+* D84 - [練習 Day] 正規化/機移除/批次標準化的 組合與比較
