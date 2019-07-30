@@ -419,3 +419,7 @@
     * [為何要使用 Batch Normalization – 莫煩 python](https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/3-08-batch-normalization/)
     * [Batch normalization 原理與實戰 – 知乎](https://zhuanlan.zhihu.com/p/34879333)
 * D84 - [練習 Day] 正規化/機移除/批次標準化的 組合與比較
+* D85 - 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop
+    * [Keras 的 EarlyStopping callbacks的使用與技巧 – CSND blog](https://blog.csdn.net/silent56_th/article/details/72845912)
+* D86 - 訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model
+    * [Save & reload 保存提取](https://morvanzhou.github.io/tutorials/machine-learning/keras/3-1-save/)
