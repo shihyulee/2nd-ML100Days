@@ -423,3 +423,10 @@
     * [Keras 的 EarlyStopping callbacks的使用與技巧 – CSND blog](https://blog.csdn.net/silent56_th/article/details/72845912)
 * D86 - 訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model
     * [Save & reload 保存提取](https://morvanzhou.github.io/tutorials/machine-learning/keras/3-1-save/)
+* D87：訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate
+    * [LearningRateScheduler #L906](https://github.com/keras-team/keras/blob/master/keras/callbacks.py#L906)
+    * [ReduceLROnPlateau  #L1287](https://github.com/keras-team/keras/blob/master/keras/callbacks.py#L1287)
+* D88 - 訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數
+    * [Keras 中保留 f1-score 最高的模型 (per epoch)](https://zhuanlan.zhihu.com/p/51356820)
+* D89 - 訓練神經網路的細節與技巧 - 撰寫自己的 Loss function
+    * [Keras自定義Loss函數](https://blog.csdn.net/A_a_ron/article/details/79050204)
