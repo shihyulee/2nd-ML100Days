@@ -440,3 +440,8 @@
     * [基於傳統圖像處理的目標檢測與識別](https://www.cnblogs.com/zyly/p/9651261.html)
     * [支持向量機(SVM)是什麼意思？](https://www.zhihu.com/question/21094489)
     * [hogsvm.py](https://github.com/opencv/opencv/blob/master/samples/python/tutorial_code/ml/py_svm_opencv/hogsvm.py)
+* D92 - 卷積神經網路 (Convolution Neural Network, CNN) 簡介
+    * [卷積神經網路的運作原理](https://brohrer.mcknote.com/zh-Hant/how_machine_learning_works/how_convolutional_neural_networks_work.html)
+    * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
+* D93 - 卷積神經網路架構細節
+    * [3x3 convolution kernels with online demo](http://matlabtricks.com/post-5/3x3-convolution-kernels-with-online-demo)
