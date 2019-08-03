@@ -430,3 +430,13 @@
     * [Keras 中保留 f1-score 最高的模型 (per epoch)](https://zhuanlan.zhihu.com/p/51356820)
 * D89 - 訓練神經網路的細節與技巧 - 撰寫自己的 Loss function
     * [Keras自定義Loss函數](https://blog.csdn.net/A_a_ron/article/details/79050204)
+* D90 - 使用傳統電腦視覺與機器學習進行影像辨識
+    * [D90：使用傳統電腦視覺與機器學習進行影像辨識](https://cloud.tencent.com/developer/article/1111702)
+    * [OpenCV – Histograms直方圖](https://chtseng.wordpress.com/2016/12/05/opencv-histograms%E7%9B%B4%E6%96%B9%E5%9C%96/)
+    * [OpenCV-Python Tutorials](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html)
+    * [Udacity free course: Introduction To Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
+* D91 - [練習 Day] 使用傳統電腦視覺與機器學習進行影像辨識
+    * [Sobel 運算子 wiki](https://zh.wikipedia.org/wiki/%E7%B4%A2%E8%B2%9D%E7%88%BE%E7%AE%97%E5%AD%90)
+    * [基於傳統圖像處理的目標檢測與識別](https://www.cnblogs.com/zyly/p/9651261.html)
+    * [支持向量機(SVM)是什麼意思？](https://www.zhihu.com/question/21094489)
+    * [hogsvm.py](https://github.com/opencv/opencv/blob/master/samples/python/tutorial_code/ml/py_svm_opencv/hogsvm.py)
