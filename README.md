@@ -445,3 +445,11 @@
     * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
 * D93 - 卷積神經網路架構細節
     * [3x3 convolution kernels with online demo](http://matlabtricks.com/post-5/3x3-convolution-kernels-with-online-demo)
+* D94 - 卷積神經網路 - 卷積(Convolution)層與參數調整
+    * [Day 06：處理影像的利器 -- 卷積神經網路(Convolutional Neural Network)](https://dotblogs.com.tw/greengem/2017/12/17/094150)
+    * [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+* D95 - 卷積神經網路 - 池化(Pooling)層與參數調整
+    * [基於Keras的卷積神經網路（CNN）視覺化](https://blog.csdn.net/weiwei9363/article/details/79112872)
+* D96 - Keras 中的 CNN layers
+    * [Xception](https://www.icode9.com/content-4-93052.html)
+    * [Keras 官方範例 mnist_cnn.py](https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py)
