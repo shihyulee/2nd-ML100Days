@@ -453,4 +453,5 @@
 * D96 - Keras 中的 CNN layers
     * [Xception](https://www.icode9.com/content-4-93052.html)
     * [Keras 官方範例 mnist_cnn.py](https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py)
-    * D97 - 使用 CNN 完成 CIFAR-10 資料集
+* D97 - 使用 CNN 完成 CIFAR-10 資料集
+	* [The Sequential model API](https://keras.io/models/sequential/)
