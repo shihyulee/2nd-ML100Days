@@ -454,4 +454,7 @@
     * [Xception](https://www.icode9.com/content-4-93052.html)
     * [Keras 官方範例 mnist_cnn.py](https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py)
 * D97 - 使用 CNN 完成 CIFAR-10 資料集
+* D98 - 訓練卷積神經網路的細節與技巧 - 處理大量數據
 	* [The Sequential model API](https://keras.io/models/sequential/)
+* D99 - 訓練卷積神經網路的細節與技巧 - 處理小量數據
+	* [Keras Image Data Augmentation 各參數詳解](https://zhuanlan.zhihu.com/p/30197320)
