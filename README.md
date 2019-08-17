@@ -458,3 +458,8 @@
 	* [The Sequential model API](https://keras.io/models/sequential/)
 * D99 - 訓練卷積神經網路的細節與技巧 - 處理小量數據
 	* [Keras Image Data Augmentation 各參數詳解](https://zhuanlan.zhihu.com/p/30197320)
+* D100 - 訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)
+	* [Keras 以 ResNet-50 預訓練模型建立狗與貓辨識程式](https://blog.gtwang.org/programming/keras-resnet-50-pre-trained-model-build-dogs-cats-image-classification-system/)
+	* [Img feature extraction with pretrained Resnet](https://www.kaggle.com/insaff/img-feature-extraction-with-pretrained-resnet)
+	* [Transfer Learning with Keras](https://ithelp.ithome.com.tw/articles/10190971)
+	* [using-a-pretrained-convnet](https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/5.3-using-a-pretrained-convnet.ipynb)
